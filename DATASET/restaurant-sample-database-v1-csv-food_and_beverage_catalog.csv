@@ -1,0 +1,50 @@
+item_id,category_id,description,is_available,name,price,subcategory_id
+1,1,"Roasted tomatoes, basil and a swirl of cream",true,Tomato Basil Soup,6.5,1
+2,1,Slow-cooked onions under a gruyere crouton,true,French Onion Soup,7.5,1
+3,1,"Vegetables, beans and small pasta in tomato broth",true,Minestrone,6.95,1
+4,1,"Romaine, parmesan, croutons and anchovy dressing",true,Caesar Salad,9.5,2
+5,1,"Tomato, cucumber, olives, red onion and feta",true,Greek Salad,9,2
+6,1,"Burrata, heirloom tomatoes and basil oil",false,Burrata and Tomato Salad,11.5,2
+7,1,Toasted sourdough with garlic butter,true,Garlic Bread,4.5,3
+8,1,"Six wings, buffalo sauce and blue cheese dip",true,Chicken Wings,9.95,3
+9,1,Lightly fried squid with lemon aioli,true,Fried Calamari,10.5,3
+10,1,"Tomato, garlic and basil on grilled bread",true,Bruschetta,7.25,3
+11,2,"Twelve ounces, chips and peppercorn sauce",true,Ribeye Steak,28,4
+12,2,"Beef patty, cheddar, pickles and fries",true,Cheeseburger,14.5,4
+13,2,"Herb-roasted, with gravy and mash",true,Half Roast Chicken,17.5,4
+14,2,Smoked ribs with barbecue glaze and slaw,true,Pork Ribs,21,4
+15,2,"Salmon fillet, greens and lemon butter",true,Grilled Salmon,22,5
+16,2,"Beer-battered cod, chips and mushy peas",true,Fish and Chips,16.5,5
+17,2,Scallops with pea puree and pancetta,false,Seared Scallops,24.5,5
+18,2,"Arborio rice, wild mushrooms and parmesan",true,Mushroom Risotto,15.5,6
+19,2,"Black bean patty, avocado and fries",true,Veggie Burger,13.5,6
+20,2,"Falafel, hummus, salad and flatbread",true,Falafel Plate,13,6
+21,3,"Tomato, mozzarella and basil",true,Margherita Pizza,12,7
+22,3,"Tomato, mozzarella and pepperoni",true,Pepperoni Pizza,14,7
+23,3,"Mozzarella, gorgonzola, fontina and parmesan",true,Four Cheese Pizza,14.5,7
+24,3,"Peppers, mushrooms, onion and olives",true,Vegetable Pizza,13.5,7
+25,3,"Egg, pecorino, black pepper and guanciale",true,Spaghetti Carbonara,14,8
+26,3,"Beef ragu, bechamel and parmesan",true,Lasagna,15,8
+27,3,"Tomato, garlic and chilli",true,Penne Arrabbiata,12.5,8
+28,3,"Shrimp, garlic, chilli and white wine",true,Shrimp Linguine,18.5,8
+29,4,Dark chocolate layer cake,true,Chocolate Cake,7,9
+30,4,Baked cheesecake with berry compote,true,New York Cheesecake,7.5,9
+31,4,"Coffee, mascarpone and cocoa",true,Tiramisu,7.5,9
+32,4,"Warm, with vanilla ice cream",true,Apple Pie,6.5,9
+33,4,Three scoops,true,Vanilla Ice Cream,5,10
+34,4,"Ice cream, hot fudge, nuts and a cherry",true,Ice Cream Sundae,7.5,10
+35,4,Dairy free,false,Lemon Sorbet,5,10
+36,5,A double shot,true,Espresso,2.8,11
+37,5,Espresso with steamed milk and foam,true,Cappuccino,3.9,11
+38,5,Espresso with steamed milk,true,Latte,4.2,11
+39,5,A pot for one,true,English Breakfast Tea,3.2,12
+40,5,A pot for one,true,Green Tea,3.2,12
+41,5,Fresh mint leaves,true,Mint Tea,3.2,12
+42,6,330 ml bottle,true,Cola,3,13
+43,6,Made in house,true,Lemonade,3.5,13
+44,6,500 ml bottle,true,Sparkling Water,2.5,13
+45,6,Squeezed to order,true,Fresh Orange Juice,4.5,13
+46,6,A pint of the house lager,true,Draft Beer,6,14
+47,6,A 175 ml glass,true,House Red Wine,7.5,14
+48,6,A 175 ml glass,true,House White Wine,7.5,14
+49,6,A 125 ml glass,true,Prosecco,8.5,14
