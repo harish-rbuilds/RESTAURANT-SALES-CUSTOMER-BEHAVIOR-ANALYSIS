@@ -79,7 +79,20 @@ def insight(text):
     st.markdown(f'<div class="insight">{text}</div>', unsafe_allow_html=True)
 
 
-DATA = Path(".")
+def get_data_dir():
+    candidates = [
+        Path("DATASET"),
+        Path(__file__).resolve().parent.parent / "DATASET",
+        Path(__file__).resolve().parent / "DATASET",
+        Path("."),
+    ]
+    for p in candidates:
+        if (p / "restaurant-sample-database-v1-csv-customers.csv").exists():
+            return p
+    return Path(".")
+
+
+DATA = get_data_dir()
 
 FILES = {
     "customers": "restaurant-sample-database-v1-csv-customers.csv",
